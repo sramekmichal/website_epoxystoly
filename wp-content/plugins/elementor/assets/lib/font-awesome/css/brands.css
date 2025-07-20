@@ -7,8 +7,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot");
-  src: url("https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot#iefix") format("embedded-opentype"), url("https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2"), url("https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff") format("woff"), url("https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf") format("truetype"), url("https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
+  src: url("/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot");
+  src: url("/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot#iefix") format("embedded-opentype"), url("/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2"), url("/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff") format("woff"), url("/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf") format("truetype"), url("/website_epoxystoly/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
 
 .fab {
   font-family: 'Font Awesome 5 Brands';

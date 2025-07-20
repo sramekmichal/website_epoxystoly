@@ -1,11 +1,11 @@
 @font-face {
 	font-family: ast-block-templates;
-	src: url( "https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.eot?p3u0q1" );
+	src: url( "/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.eot?p3u0q1" );
 	src:
-		url( "https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.eot?p3u0q1#iefix" ) format( "embedded-opentype" ),
-		url( "https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.ttf?p3u0q1" ) format( "truetype" ),
-		url( "https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.woff?p3u0q1" ) format( "woff" ),
-		url( "https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.svg?p3u0q1#ast-block-templates" ) format( "svg" );
+		url( "/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.eot?p3u0q1#iefix" ) format( "embedded-opentype" ),
+		url( "/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.ttf?p3u0q1" ) format( "truetype" ),
+		url( "/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.woff?p3u0q1" ) format( "woff" ),
+		url( "/website_epoxystoly/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/assets/fonts/ast-block-templates.svg?p3u0q1#ast-block-templates" ) format( "svg" );
 	font-weight: 400;
 	font-style: normal;
 	font-display: block;

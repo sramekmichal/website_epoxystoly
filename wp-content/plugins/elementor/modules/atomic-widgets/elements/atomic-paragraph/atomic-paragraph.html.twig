@@ -2,7 +2,7 @@
 		{% set id_attribute = settings._cssid is not empty ? 'id=' ~ settings._cssid | e('html_attr') : '' %}
         <p class="{{ settings.classes | merge( [ base_styles.base ] ) | join(' ') }}" {{ id_attribute }}>
             {% if settings.link.href %}
-                <a href="https://sramekmichal.github.io/website_epoxystoly/wp-content/plugins/elementor/modules/atomic-widgets/elements/atomic-paragraph/%20settings.link.href%20" target="{{ settings.link.target }}" class="{{ base_styles['link-base'] }}">
+                <a href="/website_epoxystoly/wp-content/plugins/elementor/modules/atomic-widgets/elements/atomic-paragraph/%20settings.link.href%20" target="{{ settings.link.target }}" class="{{ base_styles['link-base'] }}">
                     {{ settings.paragraph }}
                 </a>
             {% else %}
