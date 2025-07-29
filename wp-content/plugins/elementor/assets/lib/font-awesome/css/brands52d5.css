@@ -7,8 +7,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("../webfonts/fa-brands-400.eot.html");
-  src: url("../webfonts/fa-brands-400.eot%3F.html") format("embedded-opentype"), url("../webfonts/fa-brands-400.woff2.html") format("woff2"), url("../webfonts/fa-brands-400.woff.html") format("woff"), url("../webfonts/fa-brands-400.ttf.html") format("truetype"), url("../webfonts/fa-brands-400.svg") format("svg"); }
+  src: url("../webfonts/fa-brands-400.html");
+  src: url("../webfonts/fa-brands-400d41d.html?#iefix") format("embedded-opentype"), url("../webfonts/fa-brands-401.html") format("woff2"), url("../webfonts/fa-brands-402.html") format("woff"), url("../webfonts/fa-brands-403.html") format("truetype"), url("../webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
 
 .fab {
   font-family: 'Font Awesome 5 Brands';
