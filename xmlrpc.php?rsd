@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://localhost/epoxy-stoly</homePageLink>
+		<homePageLink>http://localhost/website_epoxystoly</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://localhost/epoxy-stoly/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://localhost/epoxy-stoly/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://localhost/epoxy-stoly/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://localhost/epoxy-stoly/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://localhost/epoxy-stoly/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="http://localhost/website_epoxystoly/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://localhost/website_epoxystoly/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://localhost/website_epoxystoly/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="http://localhost/website_epoxystoly/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="http://localhost/website_epoxystoly/wp-json/" />
 			</apis>
 	</service>
 </rsd>
